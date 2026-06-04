@@ -2,7 +2,7 @@
 
 Civic Connect is a Flutter-based smart civic engagement application designed to connect citizens with public services, community resources, and local governance systems through a seamless digital platform.
 This project made us won 1st prize in SIH also 1st in college.
-The application focuses on improving communication, accessibility, and public service interaction using modern mobile technology.
+The application focuses on improving communication, accessibility, and public service interaction using modern mobile technology.Regarding this app we made CIVIC ADMIN.
 
 ---
 
